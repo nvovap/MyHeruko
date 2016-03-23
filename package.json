@@ -7,7 +7,6 @@
         "mongoose": "latest"
     },
     "engines":{
-        "node":"4.1.1",
         "npm”:”3.8.x”
     },
     "scripts":{
